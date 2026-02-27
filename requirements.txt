@@ -1,5 +1,7 @@
 streamlit
+pandas
 PyPDF2
 python-docx
 reportlab
-openai
+transformers
+torch
